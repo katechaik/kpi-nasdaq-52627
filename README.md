@@ -61,14 +61,18 @@ For META, the dataset contains 250 observations with a mean value of 668.15 and 
 ![META](meta.png)
 
 For AMD, the dataset includes 230 observations with a mean of 184.97 and a standard deviation of 43.73. The stock demonstrates a clear upward trend from around 100 to over 260, followed by a period of stabilization, indicating strong growth dynamics.
+![AMD](amd.png)
 
 For NFLX, there are 189 observations with a mean of 106.28 and a standard deviation of 15.60. The stock initially declines to around 75–80 and then recovers, showing moderate volatility and a pattern of downturn followed by rebound.
+![NFLX](nflx.png)
 
 For INTC, the dataset includes 146 observations with a mean of 39.69 and a standard deviation of 6.79. The stock remains relatively stable, with small fluctuations and a pattern of gradual growth followed by sideways movement, indicating low volatility.
+![INTC](intc.png)
 
 For ADBE, the dataset contains 102 observations with a mean of 301.20 and a standard deviation of 37.96. The stock initially increases to above 350, then experiences a sharp decline to around 240, followed by partial recovery, reflecting a peak-and-drop pattern.
+![ADBE](adbe.png)
 
----
+
 
 ## 5. Overall Graph Analysis
 
@@ -76,7 +80,7 @@ Across all companies, different market behaviors can be observed. AMD demonstrat
 
 These patterns indicate that the dataset reflects realistic market dynamics, including trends, volatility, and corrections.
 
----
+
 
 ## 6. Final Conclusion
 
