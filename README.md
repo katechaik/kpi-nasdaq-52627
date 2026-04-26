@@ -87,3 +87,10 @@ These patterns indicate that the dataset reflects realistic market dynamics, inc
 The dataset satisfies all key performance indicators. It is fully complete with no missing values, demonstrates low latency due to recent data, maintains high accuracy with valid and realistic values, and is fully consistent with a clean and uniform structure.
 
 Overall, the dataset is high-quality, reliable, and suitable for financial analysis, forecasting, and machine learning applications.
+
+
+## Code
+
+The data collection and analysis were performed using Python.  
+The code is available in the repository file `KPI NASDQ analysis.ipynb`.
+
