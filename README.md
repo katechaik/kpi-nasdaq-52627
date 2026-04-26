@@ -92,5 +92,5 @@ Overall, the dataset is high-quality, reliable, and suitable for financial analy
 ## Code
 
 The data collection and analysis were performed using Python.  
-The code is available in the repository file `KPI NASDQ analysis.ipynb`.
+The code is available in the repository file `KPI NASDAQ analysis.ipynb`.
 
