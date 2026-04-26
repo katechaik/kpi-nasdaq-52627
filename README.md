@@ -6,6 +6,13 @@ The dataset was collected using the Yahoo Finance API via the Python library *yf
 
 The data consists of daily closing stock prices (Close price). The dataset is stored in individual CSV files for each company, as well as in one combined dataset containing all companies. The time range of the data spans from March 3, 2025 to March 31, 2026.
 
+| Ticker | Company | Start Date | End Date |
+|--------|---------|------------|------------|
+| META   | Meta    | 2025-03-01 | 2026-03-01 |
+| AMD    | AMD     | 2025-05-01 | 2026-04-01 |
+| NFLX   | Netflix | 2025-07-01 | 2026-04-01 |
+| INTC   | Intel   | 2025-09-01 | 2026-04-01 |
+| ADBE   | Adobe   | 2025-11-01 | 2026-04-01 |
 
 
 ## 2. Dataset Structure
